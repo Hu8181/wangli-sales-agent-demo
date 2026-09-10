@@ -21,7 +21,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
-    "file": "wangli-sales-agent-demo/_next/static/chunks/app-route-prefetch-policy-DX03ubE-.js",
+    "file": "wangli-sales-agent-demo/_next/static/chunks/app-route-prefetch-policy-DVyRY6fU.js",
     "name": "app-route-prefetch-policy",
     "src": "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
     "isDynamicEntry": true,
@@ -30,7 +30,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "wangli-sales-agent-demo/_next/static/chunks/layout-segment-context-BCV0u8hw.js",
+    "file": "wangli-sales-agent-demo/_next/static/chunks/layout-segment-context-Dd6Nal9V.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -51,7 +51,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "wangli-sales-agent-demo/_next/static/chunks/index-BwlQdO-_.js",
+    "file": "wangli-sales-agent-demo/_next/static/chunks/index-daIzDmW-.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
